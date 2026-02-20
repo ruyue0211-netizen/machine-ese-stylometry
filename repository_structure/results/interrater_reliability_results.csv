@@ -1,0 +1,4 @@
+Dimension,Agreement_Rate,Fleiss_Kappa,Krippendorff_Alpha,Interpretation
+Fluency,0.994,0.9823529411764705,0.9925,几乎完美一致 (Almost Perfect)
+Adequacy,1.0,1.0,1.0,几乎完美一致 (Almost Perfect)
+Register,0.994,0.9823529411764705,0.9925,几乎完美一致 (Almost Perfect)

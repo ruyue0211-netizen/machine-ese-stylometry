@@ -1,0 +1,21 @@
+,,Fluency,Fluency,Fluency,Fluency,Adequacy,Adequacy,Adequacy,Adequacy,Register_Appropriateness,Register_Appropriateness,Register_Appropriateness,Register_Appropriateness
+,,mean,std,min,max,mean,std,min,max,mean,std,min,max
+Corpus,System,,,,,,,,,,,,
+OpenSubtitles,DeepL,3.98,0.22,3,5,3.97,0.18,3,4,4.0,0.0,4,4
+OpenSubtitles,GPT-4,4.0,0.0,4,4,4.0,0.0,4,4,4.0,0.0,4,4
+OpenSubtitles,Gemini-2.5,4.0,0.0,4,4,4.02,0.22,3,5,4.03,0.18,4,5
+OpenSubtitles,Google Translate,3.95,0.22,3,4,3.98,0.13,3,4,3.98,0.13,3,4
+OpenSubtitles,Grok-2,3.95,0.22,3,4,3.98,0.13,3,4,4.0,0.0,4,4
+OpenSubtitles,HT,4.02,0.13,4,5,4.05,0.29,3,5,4.03,0.18,4,5
+TED,DeepL,4.03,0.18,4,5,4.02,0.13,4,5,3.87,0.34,3,4
+TED,GPT-4,3.98,0.13,3,4,4.02,0.13,4,5,3.95,0.22,3,4
+TED,Gemini-2.5,4.0,0.0,4,4,4.0,0.18,3,5,4.38,0.49,4,5
+TED,Google Translate,3.95,0.22,3,4,3.97,0.18,3,4,3.87,0.34,3,4
+TED,Grok-2,4.02,0.13,4,5,3.98,0.13,3,4,3.95,0.22,3,4
+TED,HT,4.05,0.22,4,5,4.0,0.0,4,4,4.03,0.18,4,5
+UNPC,DeepL,3.85,0.36,3,4,3.93,0.25,3,4,3.73,0.45,3,4
+UNPC,GPT-4,3.9,0.3,3,4,3.95,0.22,3,4,3.98,0.13,3,4
+UNPC,Gemini-2.5,3.95,0.22,3,4,4.0,0.18,3,5,4.0,0.18,3,5
+UNPC,Google Translate,3.77,0.43,3,4,3.92,0.28,3,4,3.57,0.5,3,4
+UNPC,Grok-2,3.82,0.39,3,4,4.05,0.22,4,5,3.97,0.18,3,4
+UNPC,HT,3.97,0.18,3,4,3.98,0.13,3,4,4.0,0.0,4,4

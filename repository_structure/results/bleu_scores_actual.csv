@@ -1,0 +1,17 @@
+Corpus,System,BLEU
+TED,DeepL,0.0215
+TED,Google Translate,0.2841
+TED,GPT-4,0.0401
+TED,Grok-2,0.1455
+TED,Gemini-2.5,0.2926
+OpenSubtitles,DeepL,0.0186
+OpenSubtitles,Google Translate,0.1605
+OpenSubtitles,GPT-4,0.0637
+OpenSubtitles,Grok-2,0.0446
+OpenSubtitles,Gemini-2.5,0.1791
+UNPC,DeepL,0.3973
+UNPC,Google Translate,0.6586
+UNPC,GPT-4,0.3534
+UNPC,Grok-2,0.3583
+UNPC,Gemini-2.5,0.5779
+

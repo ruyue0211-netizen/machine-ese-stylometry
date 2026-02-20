@@ -1,0 +1,1081 @@
+Corpus,System,Segment_ID,Rater_ID,Fluency,Adequacy,Register_Appropriateness
+TED,HT,1,1,4,4,4
+TED,HT,1,2,4,4,4
+TED,HT,1,3,4,4,4
+TED,HT,2,1,4,4,4
+TED,HT,2,2,4,4,4
+TED,HT,2,3,4,4,5
+TED,HT,3,1,4,4,4
+TED,HT,3,2,4,4,4
+TED,HT,3,3,4,4,4
+TED,HT,4,1,4,4,4
+TED,HT,4,2,4,4,4
+TED,HT,4,3,4,4,5
+TED,HT,5,1,4,4,4
+TED,HT,5,2,4,4,4
+TED,HT,5,3,4,4,4
+TED,HT,6,1,4,4,4
+TED,HT,6,2,4,4,4
+TED,HT,6,3,4,4,4
+TED,HT,7,1,4,4,4
+TED,HT,7,2,4,4,4
+TED,HT,7,3,4,4,4
+TED,HT,8,1,4,4,4
+TED,HT,8,2,4,4,4
+TED,HT,8,3,4,4,4
+TED,HT,9,1,4,4,4
+TED,HT,9,2,4,4,4
+TED,HT,9,3,4,4,4
+TED,HT,10,1,4,4,4
+TED,HT,10,2,4,4,4
+TED,HT,10,3,4,4,4
+TED,HT,11,1,4,4,4
+TED,HT,11,2,4,4,4
+TED,HT,11,3,4,4,4
+TED,HT,12,1,4,4,4
+TED,HT,12,2,4,4,4
+TED,HT,12,3,5,4,4
+TED,HT,13,1,4,4,4
+TED,HT,13,2,5,4,4
+TED,HT,13,3,4,4,4
+TED,HT,14,1,4,4,4
+TED,HT,14,2,4,4,4
+TED,HT,14,3,4,4,4
+TED,HT,15,1,4,4,4
+TED,HT,15,2,4,4,4
+TED,HT,15,3,4,4,4
+TED,HT,16,1,4,4,4
+TED,HT,16,2,4,4,4
+TED,HT,16,3,4,4,4
+TED,HT,17,1,4,4,4
+TED,HT,17,2,4,4,4
+TED,HT,17,3,4,4,4
+TED,HT,18,1,5,4,4
+TED,HT,18,2,4,4,4
+TED,HT,18,3,4,4,4
+TED,HT,19,1,4,4,4
+TED,HT,19,2,4,4,4
+TED,HT,19,3,4,4,4
+TED,HT,20,1,4,4,4
+TED,HT,20,2,4,4,4
+TED,HT,20,3,4,4,4
+TED,DeepL,1,1,4,4,4
+TED,DeepL,1,2,4,4,4
+TED,DeepL,1,3,4,4,4
+TED,DeepL,2,1,4,4,4
+TED,DeepL,2,2,4,4,4
+TED,DeepL,2,3,4,4,4
+TED,DeepL,3,1,4,4,4
+TED,DeepL,3,2,4,4,4
+TED,DeepL,3,3,5,4,4
+TED,DeepL,4,1,4,4,4
+TED,DeepL,4,2,4,4,4
+TED,DeepL,4,3,4,4,4
+TED,DeepL,5,1,4,4,4
+TED,DeepL,5,2,4,4,4
+TED,DeepL,5,3,4,4,3
+TED,DeepL,6,1,4,5,4
+TED,DeepL,6,2,4,4,4
+TED,DeepL,6,3,4,4,4
+TED,DeepL,7,1,4,4,3
+TED,DeepL,7,2,4,4,4
+TED,DeepL,7,3,4,4,4
+TED,DeepL,8,1,4,4,4
+TED,DeepL,8,2,4,4,4
+TED,DeepL,8,3,4,4,4
+TED,DeepL,9,1,4,4,3
+TED,DeepL,9,2,4,4,4
+TED,DeepL,9,3,4,4,4
+TED,DeepL,10,1,4,4,4
+TED,DeepL,10,2,4,4,4
+TED,DeepL,10,3,4,4,4
+TED,DeepL,11,1,5,4,4
+TED,DeepL,11,2,4,4,4
+TED,DeepL,11,3,4,4,3
+TED,DeepL,12,1,4,4,3
+TED,DeepL,12,2,4,4,4
+TED,DeepL,12,3,4,4,4
+TED,DeepL,13,1,4,4,3
+TED,DeepL,13,2,4,4,4
+TED,DeepL,13,3,4,4,4
+TED,DeepL,14,1,4,4,3
+TED,DeepL,14,2,4,4,4
+TED,DeepL,14,3,4,4,4
+TED,DeepL,15,1,4,4,4
+TED,DeepL,15,2,4,4,4
+TED,DeepL,15,3,4,4,4
+TED,DeepL,16,1,4,4,4
+TED,DeepL,16,2,4,4,4
+TED,DeepL,16,3,4,4,4
+TED,DeepL,17,1,4,4,4
+TED,DeepL,17,2,4,4,4
+TED,DeepL,17,3,4,4,4
+TED,DeepL,18,1,4,4,4
+TED,DeepL,18,2,4,4,4
+TED,DeepL,18,3,4,4,4
+TED,DeepL,19,1,4,4,4
+TED,DeepL,19,2,4,4,4
+TED,DeepL,19,3,4,4,4
+TED,DeepL,20,1,4,4,3
+TED,DeepL,20,2,4,4,4
+TED,DeepL,20,3,4,4,4
+TED,Google Translate,1,1,4,4,4
+TED,Google Translate,1,2,4,4,3
+TED,Google Translate,1,3,4,4,4
+TED,Google Translate,2,1,4,4,4
+TED,Google Translate,2,2,4,4,4
+TED,Google Translate,2,3,4,4,4
+TED,Google Translate,3,1,4,4,4
+TED,Google Translate,3,2,4,4,4
+TED,Google Translate,3,3,4,4,4
+TED,Google Translate,4,1,4,4,4
+TED,Google Translate,4,2,3,4,4
+TED,Google Translate,4,3,4,4,4
+TED,Google Translate,5,1,4,4,4
+TED,Google Translate,5,2,4,4,4
+TED,Google Translate,5,3,4,4,4
+TED,Google Translate,6,1,4,4,4
+TED,Google Translate,6,2,4,4,4
+TED,Google Translate,6,3,4,4,4
+TED,Google Translate,7,1,4,4,4
+TED,Google Translate,7,2,4,4,3
+TED,Google Translate,7,3,4,4,3
+TED,Google Translate,8,1,4,4,4
+TED,Google Translate,8,2,4,4,4
+TED,Google Translate,8,3,4,4,4
+TED,Google Translate,9,1,4,4,4
+TED,Google Translate,9,2,4,4,4
+TED,Google Translate,9,3,4,4,3
+TED,Google Translate,10,1,4,3,4
+TED,Google Translate,10,2,4,4,4
+TED,Google Translate,10,3,4,4,4
+TED,Google Translate,11,1,4,4,4
+TED,Google Translate,11,2,4,4,4
+TED,Google Translate,11,3,4,4,4
+TED,Google Translate,12,1,4,4,4
+TED,Google Translate,12,2,4,4,4
+TED,Google Translate,12,3,4,4,4
+TED,Google Translate,13,1,4,4,4
+TED,Google Translate,13,2,4,4,4
+TED,Google Translate,13,3,4,4,4
+TED,Google Translate,14,1,4,4,4
+TED,Google Translate,14,2,4,4,4
+TED,Google Translate,14,3,4,4,4
+TED,Google Translate,15,1,3,4,4
+TED,Google Translate,15,2,4,4,4
+TED,Google Translate,15,3,4,4,3
+TED,Google Translate,16,1,4,4,4
+TED,Google Translate,16,2,4,4,4
+TED,Google Translate,16,3,4,4,3
+TED,Google Translate,17,1,4,4,4
+TED,Google Translate,17,2,4,4,4
+TED,Google Translate,17,3,4,4,3
+TED,Google Translate,18,1,4,4,4
+TED,Google Translate,18,2,3,3,4
+TED,Google Translate,18,3,4,4,3
+TED,Google Translate,19,1,4,4,4
+TED,Google Translate,19,2,4,4,4
+TED,Google Translate,19,3,4,4,4
+TED,Google Translate,20,1,4,4,4
+TED,Google Translate,20,2,4,4,4
+TED,Google Translate,20,3,4,4,4
+TED,GPT-4,1,1,4,4,4
+TED,GPT-4,1,2,4,4,4
+TED,GPT-4,1,3,4,4,4
+TED,GPT-4,2,1,4,4,4
+TED,GPT-4,2,2,4,4,4
+TED,GPT-4,2,3,4,4,4
+TED,GPT-4,3,1,4,4,4
+TED,GPT-4,3,2,4,4,4
+TED,GPT-4,3,3,4,4,4
+TED,GPT-4,4,1,4,4,4
+TED,GPT-4,4,2,4,4,4
+TED,GPT-4,4,3,4,4,3
+TED,GPT-4,5,1,4,4,4
+TED,GPT-4,5,2,4,4,4
+TED,GPT-4,5,3,4,4,4
+TED,GPT-4,6,1,4,4,4
+TED,GPT-4,6,2,4,4,4
+TED,GPT-4,6,3,4,4,4
+TED,GPT-4,7,1,4,4,4
+TED,GPT-4,7,2,4,4,4
+TED,GPT-4,7,3,4,4,4
+TED,GPT-4,8,1,4,4,4
+TED,GPT-4,8,2,4,4,4
+TED,GPT-4,8,3,4,4,4
+TED,GPT-4,9,1,4,4,4
+TED,GPT-4,9,2,4,4,4
+TED,GPT-4,9,3,4,4,4
+TED,GPT-4,10,1,4,4,4
+TED,GPT-4,10,2,4,4,4
+TED,GPT-4,10,3,4,4,4
+TED,GPT-4,11,1,4,4,4
+TED,GPT-4,11,2,4,4,4
+TED,GPT-4,11,3,4,4,4
+TED,GPT-4,12,1,4,4,4
+TED,GPT-4,12,2,4,4,4
+TED,GPT-4,12,3,4,4,4
+TED,GPT-4,13,1,4,4,4
+TED,GPT-4,13,2,4,4,4
+TED,GPT-4,13,3,4,4,3
+TED,GPT-4,14,1,4,4,4
+TED,GPT-4,14,2,4,4,4
+TED,GPT-4,14,3,4,4,3
+TED,GPT-4,15,1,4,4,4
+TED,GPT-4,15,2,4,4,4
+TED,GPT-4,15,3,4,4,4
+TED,GPT-4,16,1,4,4,4
+TED,GPT-4,16,2,4,4,4
+TED,GPT-4,16,3,4,4,4
+TED,GPT-4,17,1,4,5,4
+TED,GPT-4,17,2,4,4,4
+TED,GPT-4,17,3,4,4,4
+TED,GPT-4,18,1,4,4,4
+TED,GPT-4,18,2,4,4,4
+TED,GPT-4,18,3,4,4,4
+TED,GPT-4,19,1,4,4,4
+TED,GPT-4,19,2,4,4,4
+TED,GPT-4,19,3,4,4,4
+TED,GPT-4,20,1,3,4,4
+TED,GPT-4,20,2,4,4,4
+TED,GPT-4,20,3,4,4,4
+TED,Grok-2,1,1,4,4,3
+TED,Grok-2,1,2,4,4,4
+TED,Grok-2,1,3,4,4,4
+TED,Grok-2,2,1,4,4,4
+TED,Grok-2,2,2,4,4,4
+TED,Grok-2,2,3,4,4,4
+TED,Grok-2,3,1,4,4,4
+TED,Grok-2,3,2,4,4,4
+TED,Grok-2,3,3,4,4,4
+TED,Grok-2,4,1,4,4,4
+TED,Grok-2,4,2,4,4,4
+TED,Grok-2,4,3,4,4,4
+TED,Grok-2,5,1,4,4,4
+TED,Grok-2,5,2,4,4,4
+TED,Grok-2,5,3,4,3,4
+TED,Grok-2,6,1,4,4,4
+TED,Grok-2,6,2,4,4,4
+TED,Grok-2,6,3,4,4,4
+TED,Grok-2,7,1,4,4,3
+TED,Grok-2,7,2,4,4,4
+TED,Grok-2,7,3,4,4,4
+TED,Grok-2,8,1,4,4,4
+TED,Grok-2,8,2,4,4,4
+TED,Grok-2,8,3,4,4,4
+TED,Grok-2,9,1,4,4,4
+TED,Grok-2,9,2,4,4,4
+TED,Grok-2,9,3,4,4,4
+TED,Grok-2,10,1,4,4,4
+TED,Grok-2,10,2,4,4,4
+TED,Grok-2,10,3,4,4,4
+TED,Grok-2,11,1,4,4,4
+TED,Grok-2,11,2,4,4,4
+TED,Grok-2,11,3,4,4,4
+TED,Grok-2,12,1,4,4,4
+TED,Grok-2,12,2,4,4,4
+TED,Grok-2,12,3,4,4,4
+TED,Grok-2,13,1,4,4,4
+TED,Grok-2,13,2,4,4,4
+TED,Grok-2,13,3,4,4,4
+TED,Grok-2,14,1,4,4,4
+TED,Grok-2,14,2,4,4,4
+TED,Grok-2,14,3,4,4,4
+TED,Grok-2,15,1,4,4,4
+TED,Grok-2,15,2,4,4,4
+TED,Grok-2,15,3,4,4,4
+TED,Grok-2,16,1,4,4,4
+TED,Grok-2,16,2,4,4,4
+TED,Grok-2,16,3,4,4,4
+TED,Grok-2,17,1,4,4,3
+TED,Grok-2,17,2,4,4,4
+TED,Grok-2,17,3,4,4,4
+TED,Grok-2,18,1,4,4,4
+TED,Grok-2,18,2,5,4,4
+TED,Grok-2,18,3,4,4,4
+TED,Grok-2,19,1,4,4,4
+TED,Grok-2,19,2,4,4,4
+TED,Grok-2,19,3,4,4,4
+TED,Grok-2,20,1,4,4,4
+TED,Grok-2,20,2,4,4,4
+TED,Grok-2,20,3,4,4,4
+TED,Gemini-2.5,1,1,4,4,4
+TED,Gemini-2.5,1,2,4,4,5
+TED,Gemini-2.5,1,3,4,4,5
+TED,Gemini-2.5,2,1,4,5,4
+TED,Gemini-2.5,2,2,4,4,4
+TED,Gemini-2.5,2,3,4,4,4
+TED,Gemini-2.5,3,1,4,4,5
+TED,Gemini-2.5,3,2,4,4,4
+TED,Gemini-2.5,3,3,4,4,4
+TED,Gemini-2.5,4,1,4,4,4
+TED,Gemini-2.5,4,2,4,4,4
+TED,Gemini-2.5,4,3,4,4,4
+TED,Gemini-2.5,5,1,4,4,5
+TED,Gemini-2.5,5,2,4,4,5
+TED,Gemini-2.5,5,3,4,4,4
+TED,Gemini-2.5,6,1,4,4,4
+TED,Gemini-2.5,6,2,4,4,5
+TED,Gemini-2.5,6,3,4,4,5
+TED,Gemini-2.5,7,1,4,4,5
+TED,Gemini-2.5,7,2,4,4,4
+TED,Gemini-2.5,7,3,4,4,4
+TED,Gemini-2.5,8,1,4,4,4
+TED,Gemini-2.5,8,2,4,4,5
+TED,Gemini-2.5,8,3,4,4,4
+TED,Gemini-2.5,9,1,4,4,4
+TED,Gemini-2.5,9,2,4,4,5
+TED,Gemini-2.5,9,3,4,4,4
+TED,Gemini-2.5,10,1,4,4,4
+TED,Gemini-2.5,10,2,4,4,4
+TED,Gemini-2.5,10,3,4,4,4
+TED,Gemini-2.5,11,1,4,4,5
+TED,Gemini-2.5,11,2,4,4,4
+TED,Gemini-2.5,11,3,4,4,4
+TED,Gemini-2.5,12,1,4,4,4
+TED,Gemini-2.5,12,2,4,4,5
+TED,Gemini-2.5,12,3,4,4,5
+TED,Gemini-2.5,13,1,4,4,5
+TED,Gemini-2.5,13,2,4,4,5
+TED,Gemini-2.5,13,3,4,4,4
+TED,Gemini-2.5,14,1,4,4,5
+TED,Gemini-2.5,14,2,4,4,5
+TED,Gemini-2.5,14,3,4,4,4
+TED,Gemini-2.5,15,1,4,4,4
+TED,Gemini-2.5,15,2,4,3,4
+TED,Gemini-2.5,15,3,4,4,4
+TED,Gemini-2.5,16,1,4,4,4
+TED,Gemini-2.5,16,2,4,4,5
+TED,Gemini-2.5,16,3,4,4,4
+TED,Gemini-2.5,17,1,4,4,4
+TED,Gemini-2.5,17,2,4,4,4
+TED,Gemini-2.5,17,3,4,4,4
+TED,Gemini-2.5,18,1,4,4,4
+TED,Gemini-2.5,18,2,4,4,5
+TED,Gemini-2.5,18,3,4,4,4
+TED,Gemini-2.5,19,1,4,4,4
+TED,Gemini-2.5,19,2,4,4,4
+TED,Gemini-2.5,19,3,4,4,5
+TED,Gemini-2.5,20,1,4,4,5
+TED,Gemini-2.5,20,2,4,4,5
+TED,Gemini-2.5,20,3,4,4,5
+UNPC,HT,1,1,4,4,4
+UNPC,HT,1,2,4,4,4
+UNPC,HT,1,3,4,4,4
+UNPC,HT,2,1,4,4,4
+UNPC,HT,2,2,4,4,4
+UNPC,HT,2,3,4,4,4
+UNPC,HT,3,1,4,4,4
+UNPC,HT,3,2,4,4,4
+UNPC,HT,3,3,4,4,4
+UNPC,HT,4,1,4,4,4
+UNPC,HT,4,2,4,4,4
+UNPC,HT,4,3,4,4,4
+UNPC,HT,5,1,4,4,4
+UNPC,HT,5,2,4,4,4
+UNPC,HT,5,3,4,4,4
+UNPC,HT,6,1,4,4,4
+UNPC,HT,6,2,4,4,4
+UNPC,HT,6,3,4,4,4
+UNPC,HT,7,1,4,4,4
+UNPC,HT,7,2,4,4,4
+UNPC,HT,7,3,4,4,4
+UNPC,HT,8,1,4,4,4
+UNPC,HT,8,2,4,4,4
+UNPC,HT,8,3,4,4,4
+UNPC,HT,9,1,4,4,4
+UNPC,HT,9,2,4,4,4
+UNPC,HT,9,3,4,4,4
+UNPC,HT,10,1,4,4,4
+UNPC,HT,10,2,4,4,4
+UNPC,HT,10,3,4,4,4
+UNPC,HT,11,1,4,4,4
+UNPC,HT,11,2,4,4,4
+UNPC,HT,11,3,4,4,4
+UNPC,HT,12,1,4,3,4
+UNPC,HT,12,2,4,4,4
+UNPC,HT,12,3,4,4,4
+UNPC,HT,13,1,4,4,4
+UNPC,HT,13,2,4,4,4
+UNPC,HT,13,3,4,4,4
+UNPC,HT,14,1,4,4,4
+UNPC,HT,14,2,4,4,4
+UNPC,HT,14,3,4,4,4
+UNPC,HT,15,1,3,4,4
+UNPC,HT,15,2,4,4,4
+UNPC,HT,15,3,4,4,4
+UNPC,HT,16,1,4,4,4
+UNPC,HT,16,2,4,4,4
+UNPC,HT,16,3,4,4,4
+UNPC,HT,17,1,4,4,4
+UNPC,HT,17,2,4,4,4
+UNPC,HT,17,3,4,4,4
+UNPC,HT,18,1,4,4,4
+UNPC,HT,18,2,4,4,4
+UNPC,HT,18,3,4,4,4
+UNPC,HT,19,1,4,4,4
+UNPC,HT,19,2,3,4,4
+UNPC,HT,19,3,4,4,4
+UNPC,HT,20,1,4,4,4
+UNPC,HT,20,2,4,4,4
+UNPC,HT,20,3,4,4,4
+UNPC,DeepL,1,1,4,4,3
+UNPC,DeepL,1,2,4,4,4
+UNPC,DeepL,1,3,4,4,4
+UNPC,DeepL,2,1,4,4,4
+UNPC,DeepL,2,2,4,4,4
+UNPC,DeepL,2,3,3,4,3
+UNPC,DeepL,3,1,4,4,4
+UNPC,DeepL,3,2,4,4,4
+UNPC,DeepL,3,3,4,4,4
+UNPC,DeepL,4,1,4,4,3
+UNPC,DeepL,4,2,4,4,4
+UNPC,DeepL,4,3,4,4,3
+UNPC,DeepL,5,1,4,4,3
+UNPC,DeepL,5,2,4,4,3
+UNPC,DeepL,5,3,4,4,3
+UNPC,DeepL,6,1,4,4,4
+UNPC,DeepL,6,2,4,4,3
+UNPC,DeepL,6,3,4,4,4
+UNPC,DeepL,7,1,4,3,3
+UNPC,DeepL,7,2,4,4,4
+UNPC,DeepL,7,3,4,4,4
+UNPC,DeepL,8,1,4,4,4
+UNPC,DeepL,8,2,3,3,3
+UNPC,DeepL,8,3,4,3,4
+UNPC,DeepL,9,1,4,4,4
+UNPC,DeepL,9,2,4,4,4
+UNPC,DeepL,9,3,4,4,4
+UNPC,DeepL,10,1,3,4,3
+UNPC,DeepL,10,2,3,4,4
+UNPC,DeepL,10,3,4,4,4
+UNPC,DeepL,11,1,3,4,4
+UNPC,DeepL,11,2,4,4,3
+UNPC,DeepL,11,3,4,4,3
+UNPC,DeepL,12,1,4,4,4
+UNPC,DeepL,12,2,3,4,4
+UNPC,DeepL,12,3,4,4,4
+UNPC,DeepL,13,1,4,4,4
+UNPC,DeepL,13,2,4,4,4
+UNPC,DeepL,13,3,3,4,4
+UNPC,DeepL,14,1,4,4,4
+UNPC,DeepL,14,2,4,4,4
+UNPC,DeepL,14,3,3,4,4
+UNPC,DeepL,15,1,4,4,4
+UNPC,DeepL,15,2,4,4,4
+UNPC,DeepL,15,3,4,4,4
+UNPC,DeepL,16,1,4,4,4
+UNPC,DeepL,16,2,3,4,3
+UNPC,DeepL,16,3,4,4,4
+UNPC,DeepL,17,1,4,4,4
+UNPC,DeepL,17,2,4,4,4
+UNPC,DeepL,17,3,4,4,3
+UNPC,DeepL,18,1,4,4,4
+UNPC,DeepL,18,2,4,4,4
+UNPC,DeepL,18,3,4,3,4
+UNPC,DeepL,19,1,4,4,4
+UNPC,DeepL,19,2,4,4,3
+UNPC,DeepL,19,3,4,4,4
+UNPC,DeepL,20,1,4,4,4
+UNPC,DeepL,20,2,4,4,4
+UNPC,DeepL,20,3,4,4,4
+UNPC,Google Translate,1,1,4,4,3
+UNPC,Google Translate,1,2,3,4,3
+UNPC,Google Translate,1,3,4,4,3
+UNPC,Google Translate,2,1,3,3,4
+UNPC,Google Translate,2,2,4,4,3
+UNPC,Google Translate,2,3,4,4,4
+UNPC,Google Translate,3,1,4,4,4
+UNPC,Google Translate,3,2,3,4,4
+UNPC,Google Translate,3,3,3,4,3
+UNPC,Google Translate,4,1,4,4,4
+UNPC,Google Translate,4,2,4,4,4
+UNPC,Google Translate,4,3,4,4,4
+UNPC,Google Translate,5,1,4,4,4
+UNPC,Google Translate,5,2,4,4,4
+UNPC,Google Translate,5,3,4,4,4
+UNPC,Google Translate,6,1,4,4,3
+UNPC,Google Translate,6,2,4,4,4
+UNPC,Google Translate,6,3,4,4,4
+UNPC,Google Translate,7,1,3,4,3
+UNPC,Google Translate,7,2,4,3,3
+UNPC,Google Translate,7,3,4,4,3
+UNPC,Google Translate,8,1,4,3,3
+UNPC,Google Translate,8,2,4,4,3
+UNPC,Google Translate,8,3,4,4,3
+UNPC,Google Translate,9,1,4,4,3
+UNPC,Google Translate,9,2,4,4,4
+UNPC,Google Translate,9,3,4,4,4
+UNPC,Google Translate,10,1,4,4,4
+UNPC,Google Translate,10,2,4,4,4
+UNPC,Google Translate,10,3,4,4,3
+UNPC,Google Translate,11,1,3,4,4
+UNPC,Google Translate,11,2,4,4,4
+UNPC,Google Translate,11,3,3,4,3
+UNPC,Google Translate,12,1,4,4,4
+UNPC,Google Translate,12,2,4,4,4
+UNPC,Google Translate,12,3,4,3,3
+UNPC,Google Translate,13,1,4,4,3
+UNPC,Google Translate,13,2,4,4,3
+UNPC,Google Translate,13,3,4,3,4
+UNPC,Google Translate,14,1,4,4,3
+UNPC,Google Translate,14,2,4,4,4
+UNPC,Google Translate,14,3,4,4,4
+UNPC,Google Translate,15,1,4,4,4
+UNPC,Google Translate,15,2,4,4,4
+UNPC,Google Translate,15,3,3,4,3
+UNPC,Google Translate,16,1,3,4,3
+UNPC,Google Translate,16,2,4,4,4
+UNPC,Google Translate,16,3,3,4,3
+UNPC,Google Translate,17,1,3,4,4
+UNPC,Google Translate,17,2,4,4,4
+UNPC,Google Translate,17,3,4,4,4
+UNPC,Google Translate,18,1,4,4,4
+UNPC,Google Translate,18,2,4,4,3
+UNPC,Google Translate,18,3,4,4,3
+UNPC,Google Translate,19,1,4,4,4
+UNPC,Google Translate,19,2,4,4,4
+UNPC,Google Translate,19,3,3,4,4
+UNPC,Google Translate,20,1,4,4,3
+UNPC,Google Translate,20,2,3,4,4
+UNPC,Google Translate,20,3,3,4,3
+UNPC,GPT-4,1,1,4,4,4
+UNPC,GPT-4,1,2,4,3,4
+UNPC,GPT-4,1,3,4,4,4
+UNPC,GPT-4,2,1,3,4,4
+UNPC,GPT-4,2,2,3,4,4
+UNPC,GPT-4,2,3,4,4,4
+UNPC,GPT-4,3,1,4,4,4
+UNPC,GPT-4,3,2,4,4,4
+UNPC,GPT-4,3,3,4,4,4
+UNPC,GPT-4,4,1,4,3,4
+UNPC,GPT-4,4,2,4,4,4
+UNPC,GPT-4,4,3,4,4,4
+UNPC,GPT-4,5,1,4,4,4
+UNPC,GPT-4,5,2,4,4,4
+UNPC,GPT-4,5,3,4,4,4
+UNPC,GPT-4,6,1,4,4,4
+UNPC,GPT-4,6,2,4,4,4
+UNPC,GPT-4,6,3,4,4,4
+UNPC,GPT-4,7,1,4,4,4
+UNPC,GPT-4,7,2,4,4,4
+UNPC,GPT-4,7,3,4,4,4
+UNPC,GPT-4,8,1,4,4,4
+UNPC,GPT-4,8,2,4,4,4
+UNPC,GPT-4,8,3,4,4,4
+UNPC,GPT-4,9,1,4,4,4
+UNPC,GPT-4,9,2,4,4,4
+UNPC,GPT-4,9,3,4,4,4
+UNPC,GPT-4,10,1,4,4,4
+UNPC,GPT-4,10,2,4,4,4
+UNPC,GPT-4,10,3,4,4,4
+UNPC,GPT-4,11,1,4,4,4
+UNPC,GPT-4,11,2,4,4,4
+UNPC,GPT-4,11,3,3,4,4
+UNPC,GPT-4,12,1,4,4,4
+UNPC,GPT-4,12,2,4,4,4
+UNPC,GPT-4,12,3,4,4,4
+UNPC,GPT-4,13,1,4,4,4
+UNPC,GPT-4,13,2,3,4,4
+UNPC,GPT-4,13,3,4,4,4
+UNPC,GPT-4,14,1,4,4,4
+UNPC,GPT-4,14,2,4,4,4
+UNPC,GPT-4,14,3,4,4,4
+UNPC,GPT-4,15,1,4,4,4
+UNPC,GPT-4,15,2,4,4,4
+UNPC,GPT-4,15,3,3,3,4
+UNPC,GPT-4,16,1,4,4,4
+UNPC,GPT-4,16,2,4,4,4
+UNPC,GPT-4,16,3,4,4,4
+UNPC,GPT-4,17,1,4,4,4
+UNPC,GPT-4,17,2,4,4,4
+UNPC,GPT-4,17,3,4,4,4
+UNPC,GPT-4,18,1,4,4,4
+UNPC,GPT-4,18,2,4,4,4
+UNPC,GPT-4,18,3,4,4,4
+UNPC,GPT-4,19,1,4,4,4
+UNPC,GPT-4,19,2,3,4,3
+UNPC,GPT-4,19,3,4,4,4
+UNPC,GPT-4,20,1,4,4,4
+UNPC,GPT-4,20,2,4,4,4
+UNPC,GPT-4,20,3,4,4,4
+UNPC,Grok-2,1,1,4,4,4
+UNPC,Grok-2,1,2,4,4,4
+UNPC,Grok-2,1,3,4,4,4
+UNPC,Grok-2,2,1,4,4,4
+UNPC,Grok-2,2,2,3,4,4
+UNPC,Grok-2,2,3,4,4,4
+UNPC,Grok-2,3,1,4,4,4
+UNPC,Grok-2,3,2,4,4,4
+UNPC,Grok-2,3,3,4,4,4
+UNPC,Grok-2,4,1,3,4,4
+UNPC,Grok-2,4,2,4,4,3
+UNPC,Grok-2,4,3,4,4,4
+UNPC,Grok-2,5,1,4,4,4
+UNPC,Grok-2,5,2,3,4,3
+UNPC,Grok-2,5,3,4,4,4
+UNPC,Grok-2,6,1,4,4,4
+UNPC,Grok-2,6,2,4,4,4
+UNPC,Grok-2,6,3,4,5,4
+UNPC,Grok-2,7,1,4,4,4
+UNPC,Grok-2,7,2,4,4,4
+UNPC,Grok-2,7,3,4,4,4
+UNPC,Grok-2,8,1,3,4,4
+UNPC,Grok-2,8,2,4,4,4
+UNPC,Grok-2,8,3,4,4,4
+UNPC,Grok-2,9,1,4,4,4
+UNPC,Grok-2,9,2,4,5,4
+UNPC,Grok-2,9,3,3,4,4
+UNPC,Grok-2,10,1,4,4,4
+UNPC,Grok-2,10,2,4,4,4
+UNPC,Grok-2,10,3,3,4,4
+UNPC,Grok-2,11,1,4,4,4
+UNPC,Grok-2,11,2,4,4,4
+UNPC,Grok-2,11,3,4,4,4
+UNPC,Grok-2,12,1,4,4,4
+UNPC,Grok-2,12,2,4,4,4
+UNPC,Grok-2,12,3,3,4,4
+UNPC,Grok-2,13,1,4,4,4
+UNPC,Grok-2,13,2,4,4,4
+UNPC,Grok-2,13,3,4,4,4
+UNPC,Grok-2,14,1,4,4,4
+UNPC,Grok-2,14,2,3,4,4
+UNPC,Grok-2,14,3,4,4,4
+UNPC,Grok-2,15,1,3,4,4
+UNPC,Grok-2,15,2,4,4,4
+UNPC,Grok-2,15,3,4,5,4
+UNPC,Grok-2,16,1,3,4,4
+UNPC,Grok-2,16,2,4,4,4
+UNPC,Grok-2,16,3,4,4,4
+UNPC,Grok-2,17,1,4,4,4
+UNPC,Grok-2,17,2,4,4,4
+UNPC,Grok-2,17,3,4,4,4
+UNPC,Grok-2,18,1,4,4,4
+UNPC,Grok-2,18,2,4,4,4
+UNPC,Grok-2,18,3,4,4,4
+UNPC,Grok-2,19,1,4,4,4
+UNPC,Grok-2,19,2,4,4,4
+UNPC,Grok-2,19,3,4,4,4
+UNPC,Grok-2,20,1,3,4,4
+UNPC,Grok-2,20,2,4,4,4
+UNPC,Grok-2,20,3,4,4,4
+UNPC,Gemini-2.5,1,1,4,4,4
+UNPC,Gemini-2.5,1,2,4,4,4
+UNPC,Gemini-2.5,1,3,4,4,4
+UNPC,Gemini-2.5,2,1,4,4,4
+UNPC,Gemini-2.5,2,2,4,4,4
+UNPC,Gemini-2.5,2,3,4,4,4
+UNPC,Gemini-2.5,3,1,4,4,4
+UNPC,Gemini-2.5,3,2,4,5,5
+UNPC,Gemini-2.5,3,3,4,4,4
+UNPC,Gemini-2.5,4,1,4,4,4
+UNPC,Gemini-2.5,4,2,4,4,4
+UNPC,Gemini-2.5,4,3,4,4,4
+UNPC,Gemini-2.5,5,1,4,4,4
+UNPC,Gemini-2.5,5,2,4,4,4
+UNPC,Gemini-2.5,5,3,4,4,4
+UNPC,Gemini-2.5,6,1,4,4,4
+UNPC,Gemini-2.5,6,2,4,4,4
+UNPC,Gemini-2.5,6,3,4,4,4
+UNPC,Gemini-2.5,7,1,4,4,4
+UNPC,Gemini-2.5,7,2,4,4,4
+UNPC,Gemini-2.5,7,3,4,4,4
+UNPC,Gemini-2.5,8,1,4,4,4
+UNPC,Gemini-2.5,8,2,4,4,4
+UNPC,Gemini-2.5,8,3,4,4,4
+UNPC,Gemini-2.5,9,1,4,3,4
+UNPC,Gemini-2.5,9,2,4,4,4
+UNPC,Gemini-2.5,9,3,4,4,4
+UNPC,Gemini-2.5,10,1,4,4,3
+UNPC,Gemini-2.5,10,2,4,4,4
+UNPC,Gemini-2.5,10,3,4,4,4
+UNPC,Gemini-2.5,11,1,4,4,4
+UNPC,Gemini-2.5,11,2,4,4,4
+UNPC,Gemini-2.5,11,3,3,4,4
+UNPC,Gemini-2.5,12,1,4,4,4
+UNPC,Gemini-2.5,12,2,3,4,4
+UNPC,Gemini-2.5,12,3,4,4,4
+UNPC,Gemini-2.5,13,1,4,4,4
+UNPC,Gemini-2.5,13,2,4,4,4
+UNPC,Gemini-2.5,13,3,4,4,4
+UNPC,Gemini-2.5,14,1,4,4,4
+UNPC,Gemini-2.5,14,2,4,4,4
+UNPC,Gemini-2.5,14,3,4,4,4
+UNPC,Gemini-2.5,15,1,4,4,4
+UNPC,Gemini-2.5,15,2,4,4,4
+UNPC,Gemini-2.5,15,3,4,4,4
+UNPC,Gemini-2.5,16,1,4,4,4
+UNPC,Gemini-2.5,16,2,4,4,4
+UNPC,Gemini-2.5,16,3,4,4,4
+UNPC,Gemini-2.5,17,1,4,4,4
+UNPC,Gemini-2.5,17,2,4,4,4
+UNPC,Gemini-2.5,17,3,4,4,4
+UNPC,Gemini-2.5,18,1,4,4,4
+UNPC,Gemini-2.5,18,2,4,4,4
+UNPC,Gemini-2.5,18,3,4,4,4
+UNPC,Gemini-2.5,19,1,4,4,4
+UNPC,Gemini-2.5,19,2,4,4,4
+UNPC,Gemini-2.5,19,3,4,4,4
+UNPC,Gemini-2.5,20,1,4,4,4
+UNPC,Gemini-2.5,20,2,3,4,4
+UNPC,Gemini-2.5,20,3,4,4,4
+OpenSubtitles,HT,1,1,4,4,4
+OpenSubtitles,HT,1,2,4,4,4
+OpenSubtitles,HT,1,3,4,4,4
+OpenSubtitles,HT,2,1,5,4,4
+OpenSubtitles,HT,2,2,4,4,4
+OpenSubtitles,HT,2,3,4,4,4
+OpenSubtitles,HT,3,1,4,4,4
+OpenSubtitles,HT,3,2,4,4,4
+OpenSubtitles,HT,3,3,4,4,4
+OpenSubtitles,HT,4,1,4,4,4
+OpenSubtitles,HT,4,2,4,4,4
+OpenSubtitles,HT,4,3,4,4,4
+OpenSubtitles,HT,5,1,4,4,4
+OpenSubtitles,HT,5,2,4,4,4
+OpenSubtitles,HT,5,3,4,4,4
+OpenSubtitles,HT,6,1,4,5,4
+OpenSubtitles,HT,6,2,4,4,4
+OpenSubtitles,HT,6,3,4,4,4
+OpenSubtitles,HT,7,1,4,4,4
+OpenSubtitles,HT,7,2,4,4,4
+OpenSubtitles,HT,7,3,4,4,4
+OpenSubtitles,HT,8,1,4,4,4
+OpenSubtitles,HT,8,2,4,4,4
+OpenSubtitles,HT,8,3,4,4,5
+OpenSubtitles,HT,9,1,4,4,4
+OpenSubtitles,HT,9,2,4,4,4
+OpenSubtitles,HT,9,3,4,4,4
+OpenSubtitles,HT,10,1,4,4,4
+OpenSubtitles,HT,10,2,4,4,4
+OpenSubtitles,HT,10,3,4,4,4
+OpenSubtitles,HT,11,1,4,4,4
+OpenSubtitles,HT,11,2,4,4,4
+OpenSubtitles,HT,11,3,4,4,4
+OpenSubtitles,HT,12,1,4,4,4
+OpenSubtitles,HT,12,2,4,4,4
+OpenSubtitles,HT,12,3,4,4,4
+OpenSubtitles,HT,13,1,4,4,4
+OpenSubtitles,HT,13,2,4,4,4
+OpenSubtitles,HT,13,3,4,4,4
+OpenSubtitles,HT,14,1,4,4,4
+OpenSubtitles,HT,14,2,4,4,4
+OpenSubtitles,HT,14,3,4,5,4
+OpenSubtitles,HT,15,1,4,5,4
+OpenSubtitles,HT,15,2,4,4,4
+OpenSubtitles,HT,15,3,4,4,4
+OpenSubtitles,HT,16,1,4,3,4
+OpenSubtitles,HT,16,2,4,4,4
+OpenSubtitles,HT,16,3,4,4,4
+OpenSubtitles,HT,17,1,4,4,4
+OpenSubtitles,HT,17,2,4,4,4
+OpenSubtitles,HT,17,3,4,4,4
+OpenSubtitles,HT,18,1,4,4,4
+OpenSubtitles,HT,18,2,4,4,4
+OpenSubtitles,HT,18,3,4,5,4
+OpenSubtitles,HT,19,1,4,4,4
+OpenSubtitles,HT,19,2,4,4,4
+OpenSubtitles,HT,19,3,4,4,4
+OpenSubtitles,HT,20,1,4,4,5
+OpenSubtitles,HT,20,2,4,4,4
+OpenSubtitles,HT,20,3,4,4,4
+OpenSubtitles,DeepL,1,1,4,4,4
+OpenSubtitles,DeepL,1,2,4,4,4
+OpenSubtitles,DeepL,1,3,4,4,4
+OpenSubtitles,DeepL,2,1,4,3,4
+OpenSubtitles,DeepL,2,2,4,4,4
+OpenSubtitles,DeepL,2,3,4,4,4
+OpenSubtitles,DeepL,3,1,4,4,4
+OpenSubtitles,DeepL,3,2,4,4,4
+OpenSubtitles,DeepL,3,3,4,4,4
+OpenSubtitles,DeepL,4,1,4,4,4
+OpenSubtitles,DeepL,4,2,4,4,4
+OpenSubtitles,DeepL,4,3,4,4,4
+OpenSubtitles,DeepL,5,1,4,4,4
+OpenSubtitles,DeepL,5,2,4,4,4
+OpenSubtitles,DeepL,5,3,4,4,4
+OpenSubtitles,DeepL,6,1,4,4,4
+OpenSubtitles,DeepL,6,2,4,4,4
+OpenSubtitles,DeepL,6,3,4,4,4
+OpenSubtitles,DeepL,7,1,4,4,4
+OpenSubtitles,DeepL,7,2,4,4,4
+OpenSubtitles,DeepL,7,3,4,4,4
+OpenSubtitles,DeepL,8,1,4,4,4
+OpenSubtitles,DeepL,8,2,4,4,4
+OpenSubtitles,DeepL,8,3,3,4,4
+OpenSubtitles,DeepL,9,1,4,4,4
+OpenSubtitles,DeepL,9,2,4,4,4
+OpenSubtitles,DeepL,9,3,4,4,4
+OpenSubtitles,DeepL,10,1,4,4,4
+OpenSubtitles,DeepL,10,2,4,4,4
+OpenSubtitles,DeepL,10,3,5,4,4
+OpenSubtitles,DeepL,11,1,4,4,4
+OpenSubtitles,DeepL,11,2,4,4,4
+OpenSubtitles,DeepL,11,3,4,4,4
+OpenSubtitles,DeepL,12,1,4,4,4
+OpenSubtitles,DeepL,12,2,4,4,4
+OpenSubtitles,DeepL,12,3,4,4,4
+OpenSubtitles,DeepL,13,1,4,4,4
+OpenSubtitles,DeepL,13,2,4,4,4
+OpenSubtitles,DeepL,13,3,4,4,4
+OpenSubtitles,DeepL,14,1,4,4,4
+OpenSubtitles,DeepL,14,2,4,4,4
+OpenSubtitles,DeepL,14,3,4,4,4
+OpenSubtitles,DeepL,15,1,4,4,4
+OpenSubtitles,DeepL,15,2,4,4,4
+OpenSubtitles,DeepL,15,3,4,4,4
+OpenSubtitles,DeepL,16,1,4,4,4
+OpenSubtitles,DeepL,16,2,4,4,4
+OpenSubtitles,DeepL,16,3,4,4,4
+OpenSubtitles,DeepL,17,1,4,4,4
+OpenSubtitles,DeepL,17,2,4,4,4
+OpenSubtitles,DeepL,17,3,4,4,4
+OpenSubtitles,DeepL,18,1,4,4,4
+OpenSubtitles,DeepL,18,2,4,4,4
+OpenSubtitles,DeepL,18,3,4,4,4
+OpenSubtitles,DeepL,19,1,4,4,4
+OpenSubtitles,DeepL,19,2,4,4,4
+OpenSubtitles,DeepL,19,3,4,4,4
+OpenSubtitles,DeepL,20,1,3,4,4
+OpenSubtitles,DeepL,20,2,4,4,4
+OpenSubtitles,DeepL,20,3,4,3,4
+OpenSubtitles,Google Translate,1,1,4,4,4
+OpenSubtitles,Google Translate,1,2,4,4,4
+OpenSubtitles,Google Translate,1,3,4,4,4
+OpenSubtitles,Google Translate,2,1,4,4,4
+OpenSubtitles,Google Translate,2,2,4,4,4
+OpenSubtitles,Google Translate,2,3,4,4,4
+OpenSubtitles,Google Translate,3,1,4,4,4
+OpenSubtitles,Google Translate,3,2,4,4,4
+OpenSubtitles,Google Translate,3,3,4,4,4
+OpenSubtitles,Google Translate,4,1,4,4,4
+OpenSubtitles,Google Translate,4,2,4,4,4
+OpenSubtitles,Google Translate,4,3,4,4,4
+OpenSubtitles,Google Translate,5,1,4,4,4
+OpenSubtitles,Google Translate,5,2,4,4,4
+OpenSubtitles,Google Translate,5,3,4,4,4
+OpenSubtitles,Google Translate,6,1,4,4,4
+OpenSubtitles,Google Translate,6,2,4,4,4
+OpenSubtitles,Google Translate,6,3,4,4,4
+OpenSubtitles,Google Translate,7,1,4,4,4
+OpenSubtitles,Google Translate,7,2,4,4,4
+OpenSubtitles,Google Translate,7,3,3,4,4
+OpenSubtitles,Google Translate,8,1,4,4,4
+OpenSubtitles,Google Translate,8,2,4,4,3
+OpenSubtitles,Google Translate,8,3,4,3,4
+OpenSubtitles,Google Translate,9,1,4,4,4
+OpenSubtitles,Google Translate,9,2,4,4,4
+OpenSubtitles,Google Translate,9,3,4,4,4
+OpenSubtitles,Google Translate,10,1,4,4,4
+OpenSubtitles,Google Translate,10,2,4,4,4
+OpenSubtitles,Google Translate,10,3,4,4,4
+OpenSubtitles,Google Translate,11,1,4,4,4
+OpenSubtitles,Google Translate,11,2,4,4,4
+OpenSubtitles,Google Translate,11,3,4,4,4
+OpenSubtitles,Google Translate,12,1,4,4,4
+OpenSubtitles,Google Translate,12,2,4,4,4
+OpenSubtitles,Google Translate,12,3,4,4,4
+OpenSubtitles,Google Translate,13,1,4,4,4
+OpenSubtitles,Google Translate,13,2,4,4,4
+OpenSubtitles,Google Translate,13,3,4,4,4
+OpenSubtitles,Google Translate,14,1,4,4,4
+OpenSubtitles,Google Translate,14,2,4,4,4
+OpenSubtitles,Google Translate,14,3,4,4,4
+OpenSubtitles,Google Translate,15,1,4,4,4
+OpenSubtitles,Google Translate,15,2,4,4,4
+OpenSubtitles,Google Translate,15,3,4,4,4
+OpenSubtitles,Google Translate,16,1,4,4,4
+OpenSubtitles,Google Translate,16,2,4,4,4
+OpenSubtitles,Google Translate,16,3,4,4,4
+OpenSubtitles,Google Translate,17,1,3,4,4
+OpenSubtitles,Google Translate,17,2,4,4,4
+OpenSubtitles,Google Translate,17,3,4,4,4
+OpenSubtitles,Google Translate,18,1,4,4,4
+OpenSubtitles,Google Translate,18,2,4,4,4
+OpenSubtitles,Google Translate,18,3,4,4,4
+OpenSubtitles,Google Translate,19,1,4,4,4
+OpenSubtitles,Google Translate,19,2,3,4,4
+OpenSubtitles,Google Translate,19,3,4,4,4
+OpenSubtitles,Google Translate,20,1,4,4,4
+OpenSubtitles,Google Translate,20,2,4,4,4
+OpenSubtitles,Google Translate,20,3,4,4,4
+OpenSubtitles,GPT-4,1,1,4,4,4
+OpenSubtitles,GPT-4,1,2,4,4,4
+OpenSubtitles,GPT-4,1,3,4,4,4
+OpenSubtitles,GPT-4,2,1,4,4,4
+OpenSubtitles,GPT-4,2,2,4,4,4
+OpenSubtitles,GPT-4,2,3,4,4,4
+OpenSubtitles,GPT-4,3,1,4,4,4
+OpenSubtitles,GPT-4,3,2,4,4,4
+OpenSubtitles,GPT-4,3,3,4,4,4
+OpenSubtitles,GPT-4,4,1,4,4,4
+OpenSubtitles,GPT-4,4,2,4,4,4
+OpenSubtitles,GPT-4,4,3,4,4,4
+OpenSubtitles,GPT-4,5,1,4,4,4
+OpenSubtitles,GPT-4,5,2,4,4,4
+OpenSubtitles,GPT-4,5,3,4,4,4
+OpenSubtitles,GPT-4,6,1,4,4,4
+OpenSubtitles,GPT-4,6,2,4,4,4
+OpenSubtitles,GPT-4,6,3,4,4,4
+OpenSubtitles,GPT-4,7,1,4,4,4
+OpenSubtitles,GPT-4,7,2,4,4,4
+OpenSubtitles,GPT-4,7,3,4,4,4
+OpenSubtitles,GPT-4,8,1,4,4,4
+OpenSubtitles,GPT-4,8,2,4,4,4
+OpenSubtitles,GPT-4,8,3,4,4,4
+OpenSubtitles,GPT-4,9,1,4,4,4
+OpenSubtitles,GPT-4,9,2,4,4,4
+OpenSubtitles,GPT-4,9,3,4,4,4
+OpenSubtitles,GPT-4,10,1,4,4,4
+OpenSubtitles,GPT-4,10,2,4,4,4
+OpenSubtitles,GPT-4,10,3,4,4,4
+OpenSubtitles,GPT-4,11,1,4,4,4
+OpenSubtitles,GPT-4,11,2,4,4,4
+OpenSubtitles,GPT-4,11,3,4,4,4
+OpenSubtitles,GPT-4,12,1,4,4,4
+OpenSubtitles,GPT-4,12,2,4,4,4
+OpenSubtitles,GPT-4,12,3,4,4,4
+OpenSubtitles,GPT-4,13,1,4,4,4
+OpenSubtitles,GPT-4,13,2,4,4,4
+OpenSubtitles,GPT-4,13,3,4,4,4
+OpenSubtitles,GPT-4,14,1,4,4,4
+OpenSubtitles,GPT-4,14,2,4,4,4
+OpenSubtitles,GPT-4,14,3,4,4,4
+OpenSubtitles,GPT-4,15,1,4,4,4
+OpenSubtitles,GPT-4,15,2,4,4,4
+OpenSubtitles,GPT-4,15,3,4,4,4
+OpenSubtitles,GPT-4,16,1,4,4,4
+OpenSubtitles,GPT-4,16,2,4,4,4
+OpenSubtitles,GPT-4,16,3,4,4,4
+OpenSubtitles,GPT-4,17,1,4,4,4
+OpenSubtitles,GPT-4,17,2,4,4,4
+OpenSubtitles,GPT-4,17,3,4,4,4
+OpenSubtitles,GPT-4,18,1,4,4,4
+OpenSubtitles,GPT-4,18,2,4,4,4
+OpenSubtitles,GPT-4,18,3,4,4,4
+OpenSubtitles,GPT-4,19,1,4,4,4
+OpenSubtitles,GPT-4,19,2,4,4,4
+OpenSubtitles,GPT-4,19,3,4,4,4
+OpenSubtitles,GPT-4,20,1,4,4,4
+OpenSubtitles,GPT-4,20,2,4,4,4
+OpenSubtitles,GPT-4,20,3,4,4,4
+OpenSubtitles,Grok-2,1,1,4,4,4
+OpenSubtitles,Grok-2,1,2,4,4,4
+OpenSubtitles,Grok-2,1,3,4,4,4
+OpenSubtitles,Grok-2,2,1,4,4,4
+OpenSubtitles,Grok-2,2,2,4,4,4
+OpenSubtitles,Grok-2,2,3,4,4,4
+OpenSubtitles,Grok-2,3,1,4,4,4
+OpenSubtitles,Grok-2,3,2,4,4,4
+OpenSubtitles,Grok-2,3,3,4,4,4
+OpenSubtitles,Grok-2,4,1,4,4,4
+OpenSubtitles,Grok-2,4,2,4,4,4
+OpenSubtitles,Grok-2,4,3,3,4,4
+OpenSubtitles,Grok-2,5,1,4,4,4
+OpenSubtitles,Grok-2,5,2,4,4,4
+OpenSubtitles,Grok-2,5,3,3,4,4
+OpenSubtitles,Grok-2,6,1,4,4,4
+OpenSubtitles,Grok-2,6,2,4,4,4
+OpenSubtitles,Grok-2,6,3,4,4,4
+OpenSubtitles,Grok-2,7,1,4,4,4
+OpenSubtitles,Grok-2,7,2,4,4,4
+OpenSubtitles,Grok-2,7,3,4,4,4
+OpenSubtitles,Grok-2,8,1,4,4,4
+OpenSubtitles,Grok-2,8,2,4,4,4
+OpenSubtitles,Grok-2,8,3,4,4,4
+OpenSubtitles,Grok-2,9,1,4,4,4
+OpenSubtitles,Grok-2,9,2,4,4,4
+OpenSubtitles,Grok-2,9,3,4,4,4
+OpenSubtitles,Grok-2,10,1,4,4,4
+OpenSubtitles,Grok-2,10,2,4,4,4
+OpenSubtitles,Grok-2,10,3,4,4,4
+OpenSubtitles,Grok-2,11,1,4,4,4
+OpenSubtitles,Grok-2,11,2,4,4,4
+OpenSubtitles,Grok-2,11,3,4,4,4
+OpenSubtitles,Grok-2,12,1,4,4,4
+OpenSubtitles,Grok-2,12,2,4,4,4
+OpenSubtitles,Grok-2,12,3,4,4,4
+OpenSubtitles,Grok-2,13,1,4,4,4
+OpenSubtitles,Grok-2,13,2,4,4,4
+OpenSubtitles,Grok-2,13,3,4,4,4
+OpenSubtitles,Grok-2,14,1,4,4,4
+OpenSubtitles,Grok-2,14,2,4,4,4
+OpenSubtitles,Grok-2,14,3,4,4,4
+OpenSubtitles,Grok-2,15,1,4,4,4
+OpenSubtitles,Grok-2,15,2,4,4,4
+OpenSubtitles,Grok-2,15,3,4,4,4
+OpenSubtitles,Grok-2,16,1,4,4,4
+OpenSubtitles,Grok-2,16,2,4,4,4
+OpenSubtitles,Grok-2,16,3,4,4,4
+OpenSubtitles,Grok-2,17,1,4,4,4
+OpenSubtitles,Grok-2,17,2,4,4,4
+OpenSubtitles,Grok-2,17,3,4,3,4
+OpenSubtitles,Grok-2,18,1,4,4,4
+OpenSubtitles,Grok-2,18,2,4,4,4
+OpenSubtitles,Grok-2,18,3,4,4,4
+OpenSubtitles,Grok-2,19,1,4,4,4
+OpenSubtitles,Grok-2,19,2,4,4,4
+OpenSubtitles,Grok-2,19,3,4,4,4
+OpenSubtitles,Grok-2,20,1,3,4,4
+OpenSubtitles,Grok-2,20,2,4,4,4
+OpenSubtitles,Grok-2,20,3,4,4,4
+OpenSubtitles,Gemini-2.5,1,1,4,4,4
+OpenSubtitles,Gemini-2.5,1,2,4,4,4
+OpenSubtitles,Gemini-2.5,1,3,4,4,4
+OpenSubtitles,Gemini-2.5,2,1,4,4,4
+OpenSubtitles,Gemini-2.5,2,2,4,4,4
+OpenSubtitles,Gemini-2.5,2,3,4,4,4
+OpenSubtitles,Gemini-2.5,3,1,4,4,4
+OpenSubtitles,Gemini-2.5,3,2,4,4,4
+OpenSubtitles,Gemini-2.5,3,3,4,5,4
+OpenSubtitles,Gemini-2.5,4,1,4,4,4
+OpenSubtitles,Gemini-2.5,4,2,4,4,4
+OpenSubtitles,Gemini-2.5,4,3,4,4,4
+OpenSubtitles,Gemini-2.5,5,1,4,4,4
+OpenSubtitles,Gemini-2.5,5,2,4,4,4
+OpenSubtitles,Gemini-2.5,5,3,4,4,4
+OpenSubtitles,Gemini-2.5,6,1,4,4,4
+OpenSubtitles,Gemini-2.5,6,2,4,4,4
+OpenSubtitles,Gemini-2.5,6,3,4,4,4
+OpenSubtitles,Gemini-2.5,7,1,4,4,4
+OpenSubtitles,Gemini-2.5,7,2,4,4,4
+OpenSubtitles,Gemini-2.5,7,3,4,4,4
+OpenSubtitles,Gemini-2.5,8,1,4,4,4
+OpenSubtitles,Gemini-2.5,8,2,4,4,4
+OpenSubtitles,Gemini-2.5,8,3,4,4,4
+OpenSubtitles,Gemini-2.5,9,1,4,5,4
+OpenSubtitles,Gemini-2.5,9,2,4,4,4
+OpenSubtitles,Gemini-2.5,9,3,4,4,4
+OpenSubtitles,Gemini-2.5,10,1,4,4,4
+OpenSubtitles,Gemini-2.5,10,2,4,4,4
+OpenSubtitles,Gemini-2.5,10,3,4,4,4
+OpenSubtitles,Gemini-2.5,11,1,4,4,4
+OpenSubtitles,Gemini-2.5,11,2,4,4,4
+OpenSubtitles,Gemini-2.5,11,3,4,4,4
+OpenSubtitles,Gemini-2.5,12,1,4,4,4
+OpenSubtitles,Gemini-2.5,12,2,4,4,4
+OpenSubtitles,Gemini-2.5,12,3,4,4,4
+OpenSubtitles,Gemini-2.5,13,1,4,4,4
+OpenSubtitles,Gemini-2.5,13,2,4,4,4
+OpenSubtitles,Gemini-2.5,13,3,4,4,4
+OpenSubtitles,Gemini-2.5,14,1,4,4,4
+OpenSubtitles,Gemini-2.5,14,2,4,4,5
+OpenSubtitles,Gemini-2.5,14,3,4,4,4
+OpenSubtitles,Gemini-2.5,15,1,4,4,4
+OpenSubtitles,Gemini-2.5,15,2,4,4,4
+OpenSubtitles,Gemini-2.5,15,3,4,4,4
+OpenSubtitles,Gemini-2.5,16,1,4,4,4
+OpenSubtitles,Gemini-2.5,16,2,4,4,4
+OpenSubtitles,Gemini-2.5,16,3,4,4,4
+OpenSubtitles,Gemini-2.5,17,1,4,4,4
+OpenSubtitles,Gemini-2.5,17,2,4,4,4
+OpenSubtitles,Gemini-2.5,17,3,4,3,4
+OpenSubtitles,Gemini-2.5,18,1,4,4,4
+OpenSubtitles,Gemini-2.5,18,2,4,4,4
+OpenSubtitles,Gemini-2.5,18,3,4,4,4
+OpenSubtitles,Gemini-2.5,19,1,4,4,4
+OpenSubtitles,Gemini-2.5,19,2,4,4,5
+OpenSubtitles,Gemini-2.5,19,3,4,4,4
+OpenSubtitles,Gemini-2.5,20,1,4,4,4
+OpenSubtitles,Gemini-2.5,20,2,4,4,4
+OpenSubtitles,Gemini-2.5,20,3,4,4,4
